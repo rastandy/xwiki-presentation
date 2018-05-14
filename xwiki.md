@@ -6,7 +6,8 @@ https://xwiki.org
 ## XWiki
 
  - 2nd generation wiki platform
- - 
+ - Unstructured text documents
+ - Structured data
 
 
 
