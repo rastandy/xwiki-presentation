@@ -40,11 +40,6 @@ https://xwiki.org
  - Your own! (as we'll see later)
 
 
-### Forums
-
-(Demo)
-
-
 
 ## Make your own App!
 
