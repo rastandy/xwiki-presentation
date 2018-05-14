@@ -1,16 +1,32 @@
-# My XWiki presentation
+## EUCP Wiki Platform
 
-## I'm so happy
-
-Ok man.
-
- - ciao
- - mondo
- - crudele
+https://wiki.eucp-project.eu
 
 
-# Hello world
+## XWiki
+
+ - 2nd generation wiki platform
+ - 
 
 
 
-# Ciao
+# What's a Wiki?
+
+
+
+## Create some content
+
+(Demo)
+
+
+
+## Installed "Apps"
+
+ - Polls
+ - Ideas
+ - File Manager
+ - FAQ
+ - Forums
+ - Blog, Meetings...
+ - Your own!
+
