@@ -19,6 +19,18 @@ https://wiki.eucp-project.eu
 (Demo)
 
 
+## Collaborate
+
+ - Comments
+ - Annotations
+ - History
+ - Watching pages
+ - Email Notifications
+
+
+## Demo
+
+
 
 ## Installed "Apps"
 
@@ -28,5 +40,60 @@ https://wiki.eucp-project.eu
  - FAQ
  - Forums
  - Blog, Meetings...
- - Your own!
+ - Your own! (as we'll see later)
 
+
+### Polls
+
+(Demo)
+
+
+### Ideas
+
+(Demo)
+
+
+### File Manager
+
+(Demo)
+
+
+### FAQ
+
+(Demo)
+
+
+### Forums
+
+(Demo)
+
+
+
+## Make your own App!
+
+With the **"__App Within Minutes__"** Wiki App maker
+
+
+## Demo
+
+
+
+## Online Resources
+
+ - XWiki Online Manual
+
+   http://www.xwiki.org/xwiki/bin/view/Documentation/UserGuide/GettingStarted
+
+ - XWiki Features
+
+   http://www.xwiki.org/xwiki/bin/view/Documentation/UserGuide/Features
+
+ - XWiki Users Forum
+
+   https://forum.xwiki.org/
+
+
+
+## Thanks
+
+Any questions?
