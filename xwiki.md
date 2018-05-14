@@ -1,6 +1,6 @@
-## EUCP Wiki Platform
+# XWiki Platform
 
-https://wiki.eucp-project.eu
+https://xwiki.org
 
 
 ## XWiki
@@ -14,13 +14,9 @@ https://wiki.eucp-project.eu
 
 
 
-## Create some content
+## Create and Collaborate
 
-(Demo)
-
-
-## Collaborate
-
+ - Create/Modify Pages
  - Comments
  - Annotations
  - History
