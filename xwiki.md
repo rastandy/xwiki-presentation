@@ -39,26 +39,6 @@ https://xwiki.org
  - Your own! (as we'll see later)
 
 
-### Polls
-
-(Demo)
-
-
-### Ideas
-
-(Demo)
-
-
-### File Manager
-
-(Demo)
-
-
-### FAQ
-
-(Demo)
-
-
 ### Forums
 
 (Demo)
