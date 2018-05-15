@@ -25,9 +25,6 @@ https://xwiki.org
  - Email Notifications
 
 
-## Demo
-
-
 
 ## Installed "Apps"
 
@@ -40,13 +37,11 @@ https://xwiki.org
  - Your own! (as we'll see later)
 
 
-## Demo
-
-
 
 ## Make your own App!
 
 With the **"__App Within Minutes__"** Wiki App maker
+
 
 
 ## Demo
@@ -56,16 +51,17 @@ With the **"__App Within Minutes__"** Wiki App maker
 ## Online Resources
 
  - XWiki Online Manual
-
    http://www.xwiki.org/xwiki/bin/view/Documentation/UserGuide/GettingStarted
 
  - XWiki Features
-
    http://www.xwiki.org/xwiki/bin/view/Documentation/UserGuide/Features
 
  - XWiki Users Forum
 
    https://forum.xwiki.org/
+
+ - XWiki Youtube Channel
+  https://www.youtube.com/user/XWikiSAS/playlists
 
 
 
