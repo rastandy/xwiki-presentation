@@ -7,7 +7,7 @@ https://xwiki.org
 
  - 2nd generation wiki platform
  - Unstructured text documents
- - Structured data
+   and structured data
 
 
 
@@ -38,6 +38,9 @@ https://xwiki.org
  - Forums
  - Blog, Meetings...
  - Your own! (as we'll see later)
+
+
+## Demo
 
 
 
