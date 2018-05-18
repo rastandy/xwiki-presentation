@@ -3,19 +3,29 @@
 https://xwiki.org
 
 
-## XWiki
 
- - 2nd generation wiki platform
- - Unstructured text documents
-   and structured data
+## About Me
+
+Andrea Russo @ CMCC
+
+ - software developer    :-)
+ - system administrator   :-|
+
+Email:  andrea.russo@cmcc.it
+
+Github: https://github.com/rastandy
 
 
 
 # What's a Wiki?
 
 
+A wiki is a website on which users collaboratively modify content and
+structure directly from the web browser
 
-## Create and Collaborate
+
+
+## XWiki
 
  - Create/Modify Pages
  - Comments
@@ -26,19 +36,20 @@ https://xwiki.org
 
 
 
-## Installed "Apps"
+## XWiki "Apps"
 
  - Polls
  - Ideas
  - File Manager
  - FAQ
  - Forums
- - Blog, Meetings...
- - Your own! (as we'll see later)
+ - Meetings
+ - Blog
+
+...
 
 
-
-## Make your own App!
+## Make your own
 
 With the **"__App Within Minutes__"** Wiki App maker
 
